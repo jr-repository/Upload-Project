@@ -7,10 +7,8 @@ Panduan singkat untuk mengunggah project lokal ke GitHub menggunakan **Visual St
 ## 🛠️ Persiapan Awal
 
 - Pastikan kamu sudah:
-  - Menginstall [Git](https://git-scm.com/)
-  - Memiliki akun GitHub
   - Membuat repository kosong di GitHub (contoh: `templateartweb1`)
-  - Menginstall [VS Code](https://code.visualstudio.com/)
+
 
 ---
 
